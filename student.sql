@@ -40,15 +40,15 @@ CREATE TABLE `student` (
 --
 
 INSERT INTO `student` (`serial`, `name`, `mobile`, `password`) VALUES
-(1, 'Md. Ahanaf Hossain', '1738673490', '5cbf98ff011b197205e270f3eacc7815'),
+(1, 'Md. Ahanaf Hossain', '54846514', '5cbf98ff011b197205e270f3eacc7815'),
 (2, 'Rafiz Uddin', '63987', 'd8578edf8458ce06fbc5bb76a58c5ca4'),
-(3, 'Abir Islam Khan', '01717253790', '64acdc0803e27bac92802812d226a836'),
-(4, 'Afrin Tonny', '01369852310', '03adcf33605fa33ef70b125144a40278'),
-(5, 'Farzana Islam', '01723541029', 'i_am_farzana_islam'),
-(10, 'John Doe', '01736985234', 'doe_john'),
-(12, 'salman khan', '01336699985234', 'salman_khan'),
-(13, 'mdahanaf', '003685214700', 'kichu_ekta'),
-(14, 'Lipi', '01723787734', 'lipi_khan');
+(3, 'Abir Islam Khan', '51416156', '64acdc0803e27bac92802812d226a836'),
+(4, 'saleh khan', '156449', '03adcf33605fa33ef70b125144a40278'),
+(5, 'Farzana Islam', '54986461', 'i_am_farzana_islam'),
+(10, 'John Doe', '59449649', 'doe_john'),
+(12, 'salman khan', '549646146', 'salman_khan'),
+(13, 'mdahanaf', '545849849', 'kichu_ekta'),
+(14, 'namrata', '549846464', 'namrata');
 
 --
 -- Indexes for dumped tables
